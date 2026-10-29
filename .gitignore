@@ -1,0 +1,7 @@
+# Private Blynk credentials
+secrets.h
+
+# Local and temporary files
+.vscode/
+.DS_Store
+*.log
