@@ -12,9 +12,6 @@ An ESP32-based classroom bell prototype that follows a configurable daily timeta
   <img src="screenshots/wokwi-circuit.png" alt="Wokwi circuit for Smart Classroom Bell" width="800" />
 </p>
 
-<p align="center">
-  <em>Replace the image above with your own screenshot at <code>screenshots/wokwi-circuit.png</code>.</em>
-</p>
 
 ---
 
