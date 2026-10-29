@@ -73,7 +73,6 @@ The Serial Monitor provides connection messages and event logs, including Wi-Fi/
 
 ![Serial Monitor](screenshots/serial-monitor.png)
 
-> Add your genuine screenshots to the `screenshots/` directory using the filenames shown above. Remove a screenshot section if that evidence is not yet available.
 
 ## Features
 
