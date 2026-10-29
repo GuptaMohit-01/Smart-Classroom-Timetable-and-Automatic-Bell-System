@@ -57,7 +57,7 @@ The ESP32 checks the timetable against the DS1307 real-time clock. When an event
 
 The Wokwi circuit contains the ESP32, DS1307 RTC, 16×2 I²C LCD, and piezo buzzer.
 
-**Open the simulation:** [Add your public Wokwi project link here](YOUR_WOKWI_PROJECT_LINK)
+**Open the simulation:** [Add your public Wokwi project link here](https://wokwi.com/projects/479200252850079745)
 
 ![Wokwi circuit](screenshots/wokwi-circuit.png)
 
@@ -309,13 +309,11 @@ The following improvements are planned and are **not claimed as implemented yet*
 
 > Replace the placeholders below with the actual names and roll numbers of your project team. Remove unused rows if the project is individual.
 
-| Roll Number | Name |
-|---|---|
-| `YOUR_ROLL_NUMBER` | `Your Name` |
-| `TEAMMATE_2_ROLL_NUMBER` | `Teammate 2 Name` |
-| `TEAMMATE_3_ROLL_NUMBER` | `Teammate 3 Name` |
-| `TEAMMATE_4_ROLL_NUMBER` | `Teammate 4 Name` |
-| `TEAMMATE_5_ROLL_NUMBER` | `Teammate 5 Name` |
+`Mohit` 
+`Rohit Kumar` 
+`Tasis Alwaz` 
+`Prity Kumari` 
+`Priyanshu Kumar` 
 
 **Department:** Computer Science & Engineering (Artificial Intelligence & Machine Learning)  
 **College:** Techno Main Salt Lake
